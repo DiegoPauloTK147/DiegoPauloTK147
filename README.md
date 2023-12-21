@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>🎯 Hello dear</h1> <br>
 
-<!--
-**DiegoPauloTK147/DiegoPauloTK147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔️ Eterno padawan de programação.<br>
+✔️ Marketing é minha Padmé Amidala (uma relação de amor e ódio)<br>
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://wa.me5511998087813](https://api.whatsapp.com/send?phone=5511998087813)https://api.whatsapp.com/send?phone=5511998087813">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
