@@ -21,10 +21,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.tiktok.com/@diegopaulotk147">
-    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark&hide_border=true&border_radius=7&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
     </a>
+    
 </div>
-
+<br>
 <div>
      <img height=180em src="https://streak-stats.demolab.com/?user=DiegoPauloTK147&theme=dark">
 </div>
