@@ -1,8 +1,8 @@
 <h1>🎯 Hello dear 🧔🏻</h1> <br>
 
-⚠️ Perfil em construção.<br>
-✔️ Eterno padawan de programação.<br>
-✔️ Marketing é minha Padmé Amidala (uma relação de amor e ódio).<br>
+⚠️ Profile under construction.<br>
+✔️ Eternal programming padawan.<br>
+✔️ Marketing is my Padmé Amidala (a love-hate relationship).<br>
 
 <div>
     <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
