@@ -23,6 +23,12 @@
     <a href="https://www.tiktok.com/@diegopaulotk147">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
     </a>
+     <a href="https://www.linkedin.com/in/diegopaulomkt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+     <a href="https://discord.gg/3rbHU4E3">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
     
 </div>
 <br>
