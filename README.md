@@ -19,11 +19,11 @@ Sou um profissional multifacetado que une criatividade e tecnologia para criar s
 
 ### 📌 **Projetos em Destaque**
 
-🔹 [**Projeto X**](https://github.com/seu-usuario/projeto-x) - Um site interativo feito com React e APIs externas.
+🔹 [**Calculadora de Cubagem**]([https://github.com/seu-usuario/projeto-x](https://devdiegopaulo.com.br/calculadoradecubagem.html)) - Fazendo calculos complexos de maneira simples.
 
-🔹 [**Landing Page Y**](https://github.com/seu-usuario/landing-page-y) - Design moderno e responsivo utilizando HTML, CSS e JavaScript.
+🔹 [**Landing Page Y**]([https://github.com/seu-usuario/landing-page-y](https://devdiegopaulo.com.br/landinPage.html)) - Design moderno e responsivo utilizando HTML, CSS e JavaScript.
 
-🔹 [**Dashboard Z**](https://github.com/seu-usuario/dashboard-z) - Interface intuitiva para monitoramento de dados.
+🔹 [**Pagina de Contatos**]([https://github.com/seu-usuario/dashboard-z](https://devdiegopaulo.com.br/contatos.html)) - Criada para uso em redes sociais.
 
 ---
 
@@ -36,9 +36,9 @@ Sou um profissional multifacetado que une criatividade e tecnologia para criar s
 
 ### 📬 **Contato & Redes**
 
-📩 **E-mail:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-🌍 **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)  
+📩 **E-mail:** [devdiegopaulo@gmail.com](devdiegopaulo@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/devdiegopaulo]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/diegopaulomkt/))  
+🌍 **Portfólio:** [devdiegopaulo.com.br]([https://seu-portfolio.com](https://devdiegopaulo.com.br/))  
 
 ---
 
