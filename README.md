@@ -1,42 +1,51 @@
-<h1>🎯 Hello dear 🧔🏻</h1> <br>
+<h1>👋 Olá, sou Diego Paulo!</h1> 
 
-⚠️ Profile under construction.<br>
-✔️ Eternal programming padawan.<br>
-✔️ Marketing is my Padmé Amidala (a love-hate relationship).<br>
+💻 **Entusiasta de Tecnologia & Marketing** | 🎨 **Designer & Desenvolvedor** | 🚀 **Apaixonado por Inovação**
 
-<div>
-    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-</div>
+Sou um profissional multifacetado que une criatividade e tecnologia para criar soluções impactantes. Minha paixão pelo Marketing e Desenvolvimento me levou a explorar ferramentas e linguagens que otimizam processos e elevam a experiência do usuário.
 
-<br>
+---
 
-<div>
-    <a href="https://api.whatsapp.com/send?phone=5511998087813">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-    <a href="mailto:editordiegopaulo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.tiktok.com/@diegopaulotk147">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-    </a>
-     <a href="https://www.linkedin.com/in/diegopaulomkt/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-     <a href="https://discord.gg/3rbHU4E3">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    
-</div>
-<br>
-<div>
-     <img height=180em src="https://streak-stats.demolab.com/?user=DiegoPauloTK147&theme=dark">
-</div>
+### 🚀 **Tech Stack**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
+### 📌 **Projetos em Destaque**
 
+🔹 [**Projeto X**](https://github.com/seu-usuario/projeto-x) - Um site interativo feito com React e APIs externas.
 
+🔹 [**Landing Page Y**](https://github.com/seu-usuario/landing-page-y) - Design moderno e responsivo utilizando HTML, CSS e JavaScript.
+
+🔹 [**Dashboard Z**](https://github.com/seu-usuario/dashboard-z) - Interface intuitiva para monitoramento de dados.
+
+---
+
+### 📊 **Estatísticas do GitHub**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 **Contato & Redes**
+
+📩 **E-mail:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+🌍 **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)  
+
+---
+
+### ✨ **Curiosidade sobre mim**
+
+🎮 Apaixonado por games retro e novas tecnologias.  
+📖 Sempre aprendendo algo novo em marketing e desenvolvimento.  
+🎯 Meu lema: *"Criar, inovar e impactar!"*  
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
