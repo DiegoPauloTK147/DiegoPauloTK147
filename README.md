@@ -19,11 +19,11 @@ Sou um profissional multifacetado que une criatividade e tecnologia para criar s
 
 ### 📌 **Projetos em Destaque**
 
-🔹 [**Calculadora de Cubagem**]([https://github.com/seu-usuario/projeto-x](https://devdiegopaulo.com.br/calculadoradecubagem.html)) - Fazendo calculos complexos de maneira simples.
+🔹 [**Calculadora de Cubagem**](https://devdiegopaulo.com.br/calculadoradecubagem.html) - Fazendo cálculos complexos de maneira simples.
 
-🔹 [**Landing Page**]([https://github.com/seu-usuario/landing-page-y](https://devdiegopaulo.com.br/landinPage.html)) - Design moderno e responsivo utilizando HTML, CSS e JavaScript.
+🔹 [**Landing Page**](https://devdiegopaulo.com.br/landinPage.html) - Design moderno e responsivo utilizando HTML, CSS e JavaScript.
 
-🔹 [**Pagina de Contatos**]([https://github.com/seu-usuario/dashboard-z](https://devdiegopaulo.com.br/contatos.html)) - Criada para uso em redes sociais.
+🔹 [**Página de Contatos**](https://devdiegopaulo.com.br/contatos.html) - Criada para uso em redes sociais.
 
 ---
 
