@@ -27,9 +27,15 @@ Sou um profissional multifacetado que une criatividade e tecnologia para criar s
 
 ---
 
-### 📊 **Estatísticas do GitHub**
+## 🚀 Minhas Estatísticas no GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPauloTK147&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoPauloTK147&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=DiegoPauloTK147&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DiegoPauloTK147&theme=radical)
 
 ---
 
